@@ -1,0 +1,22 @@
+{
+  "name": "express_basic_informational_site",
+  "version": "1.0.0",
+  "description": "A simple informational site using express and node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptforness/odin_projects.git"
+  },
+  "author": "Paul Forness <ptfornes@uark.edu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ptforness/odin_projects/issues"
+  },
+  "homepage": "https://github.com/ptforness/odin_projects#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
